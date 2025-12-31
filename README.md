@@ -1,18 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>HomeWay – Property Services Management Platform</title>
-
-<style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 24px; }
-    .lang-links { margin-bottom: 16px; }
-    .lang-links a { margin-right: 12px; text-decoration: none; font-weight: 700; }
-    .rtl { direction: rtl; text-align: right; }
-    hr { margin: 24px 0; }
-  </style>
-</head>
 
 <body>
 
