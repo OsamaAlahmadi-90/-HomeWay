@@ -23,7 +23,7 @@
   <li><a href="#architecture">4. Architecture</a></li>
   <li><a href="#core-workflows">5. Core Workflows</a></li>
   <li><a href="#problems-solved">6. Problems Solved</a></li>
-  <li><a href="#contributors">7. Contributors</a></li>
+  <li><a href="#Prorejct_Contribtion">7. Prorejct Contribtions</a></li>
  <li><a href="#Important-URLs">8. Important URLs</a></li>
 </ul>
 
@@ -253,7 +253,7 @@
 
 <p><a href="#top">↑ Back to top</a></p>
 
-<h2 id="Prorejct Contribtion">8. Contributors</h2>
+<h2 id="Prorejct_Contribtion">8. Prorejct Contribtion</h2>
 
 <p><strong>Backend Development:</strong></p>
 <ul>
@@ -272,7 +272,19 @@
 <p><strong>External APIs:</strong></p>
 <ul>
   <li>Email integration (Company/Customer Requests)</li>
-  <li>AI endpoints: customerRequestCostEstimation, customerReportSummary, workerIssueDiagnosis, movingCompanyResourceMovingEstimation, workerJobTimeEstimation, maintenanceCompanyMaintenancePlan, redesignCompanyRedesignScope, customerRedesignFromImage, companyIssueImageDiagnosis</li>
+  <li>AI endpoints: </li> 
+<ul>
+  <li>CustomerRequestCostEstimation</li>
+  <li>customerReportSummary</li>
+  <li>workerIssueDiagnosis</li>
+  <li>movingCompanyResourceMovingEstimation </li>
+  <li>workerJobTimeEstimation</li>
+  <li>maintenanceCompanyMaintenancePlan</li>
+  <li>redesignCompanyRedesignScope</li>
+  <li>customerRedesignFromImage</li>
+  <li>companyIssueImageDiagnosis</li>
+</ul>
+  
 </ul>
 
 <p><a href="#top">↑ Back to top</a></p>
