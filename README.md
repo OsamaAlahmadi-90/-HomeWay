@@ -253,53 +253,8 @@
 
 <p><a href="#top">↑ Back to top</a></p>
 
-<h2 id="contributors">8. Contributors</h2>
+<h2 id="Prorejct Contribtion">8. Contributors</h2>
 
-<h3><a href="https://github.com/Turki1927">@Turki1927</a></h3>
-<p><strong>Backend Development:</strong></p>
-<ul>
-  <li>Property, Worker, Admin entities</li>
-  <li>Notifications system</li>
-  <li>SubscriptionPaymentService, UserSubscriptionService</li>
-  <li>Request flows: Maintenance &amp; Redesign</li>
-</ul>
-<p><strong>Testing &amp; Design:</strong></p>
-<ul>
-  <li>JUnit Test (Service layer)</li>
-  <li>Postman Testing (Local/deployment)</li>
-  <li>Figma Initial Design</li>
-  <li>Class Diagram</li>
-</ul>
-<p><strong>External APIs:</strong></p>
-<ul>
-  <li>Subscription payment integration (Moyasar)</li>
-  <li>Email Integration (Subscription/Notifications)</li>
-  <li>AI endpoints: customerServicesTimeEstimation, customerReviewWritingAssist, workerRepairChecklist, workerSafetyRequirements, companyServiceEstimationCost, maintenanceCompanySparePartsCosts</li>
-</ul>
-
-<h3><a href="https://github.com/leenref">@leenref</a></h3>
-<p><strong>Backend Development:</strong></p>
-<ul>
-  <li>Report, Vehicle, Customer entities</li>
-  <li>RequestPaymentService</li>
-  <li>Request flow: Moving</li>
-</ul>
-<p><strong>Testing &amp; Documentation:</strong></p>
-<ul>
-  <li>JUnit Test (Controller layer)</li>
-  <li>Postman Testing (Local/deployment)</li>
-  <li>Postman Documentation</li>
-  <li>Figma Initial Design</li>
-  <li>Class Diagram</li>
-</ul>
-<p><strong>Deployment &amp; External APIs:</strong></p>
-<ul>
-  <li>Platform Deployment</li>
-  <li>Service payment integration (Moyasar)</li>
-  <li>AI endpoints: customerAskAIWhatServiceDoesTheIssueFits, customerIsFixOrDesignCheaper, workerReportCreationAssistant, companyInspectionPlanningAssistant, movingCompanyTimeAdvice, maintenanceFixOrReplace</li>
-</ul>
-
-<h3><a href="https://github.com/OsamaAlahmadi-90">@OsamaAlahmadi-90</a></h3>
 <p><strong>Backend Development:</strong></p>
 <ul>
   <li>User, Offer, UserRegister, Review, Company entities</li>
