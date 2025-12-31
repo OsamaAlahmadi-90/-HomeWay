@@ -351,6 +351,7 @@
   <li><a href="#architecture-ar">4. بينة المشروع</a></li>
   <li><a href="#core-workflows-ar">5. سير العمل الأساسي</a></li>
   <li><a href="#problems-solved-ar">6. المشاكل التي تم حلها</a></li>
+  <li><a href="#Prorejct_Contribtion">7. Prorejct Contribtions</a></li>
   <li><a href="#Important-URLs">8. روابط مهمة</a></li>
 </ul>
 
@@ -581,62 +582,8 @@
 
 <p><a href="#top-ar">↑ العودة للأعلى</a></p>
 
-<h2 id="contributors-ar">8. المساهمون</h2>
+<h2 id="Prorejct_Contribtion">8. المساهمون</h2>
 
-<h3><a href="https://github.com/Turki1927">@Turki1927</a></h3>
-<p><strong>برمجة الواجهة الخلفية:</strong></p>
-<ul>
-  <li>كلاس: العقار، العامل، المسؤول</li>
-  <li>نظام الإشعارات</li>
-  <li>خدمات الاشتراك، اشتراك المستحدم</li>
-  <li>سير الطلبات: الصيانة وإعادة التصميم</li>
-</ul>
-<p><strong>الاختبار والتصميم:</strong></p>
-<ul>
-  <li>اختبارات JUnit (طبقة الخدمة)</li>
-  <li>اختبار Postman (محلي/نشر)</li>
-  <li>التصميم الأولي على Figma</li>
-  <li>مخطط الفئات (Class Diagram)</li>
-</ul>
-<p><strong>التكاملات الخارجية:</strong></p>
-<ul>
-  <li>تكامل دفع الاشتراك (ميسر)</li>
-  <li>تكامل البريد الإلكتروني (الاشتراك/الإشعارات)</li>
-  <li>
-     الذكاء الاصطناعي:
-    customerServicesTimeEstimation، customerReviewWritingAssist، workerRepairChecklist،
-    workerSafetyRequirements، companyServiceEstimationCost، maintenanceCompanySparePartsCosts
-  </li>
-</ul>
-
-<h3><a href="https://github.com/leenref">@leenref</a></h3>
-<p><strong>برمجة الواجهة الخلفية:</strong></p>
-<ul>
-  <li>كلاس: التقرير، المركبة، العميل</li>
-  <li>RequestPaymentService</li>
-  <li>سير الطلب: النقل</li>
-</ul>
-<p><strong>الاختبار والتوثيق:</strong></p>
-<ul>
-  <li>اختبارات JUnit (طبقة المتحكم)</li>
-  <li>اختبار Postman (محلي/نشر)</li>
-  <li>توثيق Postman</li>
-  <li>التصميم الأولي على Figma</li>
-  <li>مخطط الفئات (Class Diagram)</li>
-</ul>
-<p><strong>النشر والتكاملات الخارجية:</strong></p>
-<ul>
-  <li>نشر المنصة</li>
-  <li>تكامل دفع الخدمة (ميسر)</li>
-  <li>
-    الذكاء الاصطناعي:
-    customerAskAIWhatServiceDoesTheIssueFits، customerIsFixOrDesignCheaper،
-    workerReportCreationAssistant، companyInspectionPlanningAssistant،
-    movingCompanyTimeAdvice، maintenanceFixOrReplace
-  </li>
-</ul>
-
-<h3><a href="https://github.com/OsamaAlahmadi-90">@OsamaAlahmadi-90</a></h3>
 <p><strong>برمجة الواجهة الخلفية:</strong></p>
 <ul>
   <li>كلاسس المستخدم، العرض (Offer)، UserRegister، المراجعة (Review)، الشركة (Company)</li>
