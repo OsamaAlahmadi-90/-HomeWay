@@ -602,12 +602,19 @@
 <ul>
   <li>تكامل البريد الإلكتروني (طلبات الشركة/العميل)</li>
   <li>
-     الذكاء الاصطناعي:
-    customerRequestCostEstimation، customerReportSummary، workerIssueDiagnosis،
-    movingCompanyResourceMovingEstimation، workerJobTimeEstimation،
-    maintenanceCompanyMaintenancePlan، redesignCompanyRedesignScope،
-    customerRedesignFromImage، companyIssueImageDiagnosis
+     الذكاء الاصطناعيs
   </li>
+  <ul>
+  <li>CustomerRequestCostEstimation</li>
+  <li>customerReportSummary</li>
+  <li>workerIssueDiagnosis</li>
+  <li>movingCompanyResourceMovingEstimation </li>
+  <li>workerJobTimeEstimation</li>
+  <li>maintenanceCompanyMaintenancePlan</li>
+  <li>redesignCompanyRedesignScope</li>
+  <li>customerRedesignFromImage</li>
+  <li>companyIssueImageDiagnosis</li>
+</ul>
 </ul>
 
 <p><a href="#top-ar">↑ العودة للأعلى</a></p>
