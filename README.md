@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>HomeWay – Property Services Management Platform</title>
 
-  <style>
+<style>
     body { font-family: Arial, sans-serif; line-height: 1.6; margin: 24px; }
     .lang-links { margin-bottom: 16px; }
     .lang-links a { margin-right: 12px; text-decoration: none; font-weight: 700; }
@@ -16,13 +16,13 @@
 
 <body>
 
-  <!-- Language quick links -->
+
   <div class="lang-links">
     <a href="#content-en">English</a>
     <a href="#content-ar">العربية</a>
   </div>
 
-  <!-- English Content -->
+
   <div id="content-en">
 
 <h1 id="top">HomeWay – Property Services Management Platform</h1>
@@ -654,7 +654,6 @@
 
   <hr />
 
-    <!-- Separate Arabic Important URLs id to avoid duplicate ids -->
   <h2 id="Important-URLs-ar">8. روابط مهمة</h2>
     <ul>
       <li>
