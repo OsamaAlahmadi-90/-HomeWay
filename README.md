@@ -351,7 +351,7 @@
   <li><a href="#architecture-ar">4. بينة المشروع</a></li>
   <li><a href="#core-workflows-ar">5. سير العمل الأساسي</a></li>
   <li><a href="#problems-solved-ar">6. المشاكل التي تم حلها</a></li>
-  <li><a href="#Prorejct_Contribtion">7. Prorejct Contribtions</a></li>
+  <li><a href="#Prorejct_Contribtions2">7. مساهمات المشروع</a></li>
   <li><a href="#Important-URLs">8. روابط مهمة</a></li>
 </ul>
 
@@ -582,7 +582,7 @@
 
 <p><a href="#top-ar">↑ العودة للأعلى</a></p>
 
-<h2 id="Prorejct_Contribtion">8. المساهمون</h2>
+<h2 id="Prorejct_Contribtions2">7. مساهمات المشروع</h2>
 
 <p><strong>برمجة الواجهة الخلفية:</strong></p>
 <ul>
